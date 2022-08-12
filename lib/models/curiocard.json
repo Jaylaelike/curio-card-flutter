@@ -1,0 +1,305 @@
+{
+  "__typename": "Query",
+  "cardTypes": [
+    {
+      "__typename": "CardType",
+      "id": "0x0565ac44e5119a3224b897de761a46a92aa28ae8",
+      "name": "Curio14",
+      "description": "Curio14",
+      "address": "0x0565ac44e5119a3224b897de761a46a92aa28ae8",
+      "supply": "500",
+      "symbol": "CRO14",
+      "ipfsHash": "QmaSnfjfwzzxfuLSV4xwbYy3UkHEEKupPrxYDgyCYTD46R"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x148ff761d16632da89f3d30ef3dfe34bc50ca765",
+      "name": "Curio22",
+      "description": "Curio22",
+      "address": "0x148ff761d16632da89f3d30ef3dfe34bc50ca765",
+      "supply": "500",
+      "symbol": "CRO22",
+      "ipfsHash": "QmNTGskeNwg4JA31YkavEd1wRMpXWas6Cd1qGdmVTaHnX1"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x1b63532ccb1fee0595c7fe2cb35cfd70ddf862cd",
+      "name": "Curio16",
+      "description": "Curio16",
+      "address": "0x1b63532ccb1fee0595c7fe2cb35cfd70ddf862cd",
+      "supply": "500",
+      "symbol": "CRO16",
+      "ipfsHash": "Qmf1STAkk5yoDsBHw8ncxQT5T6ZBH6hk2ri8oj8AaB73yt"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x1ca6ac0ce771094f0f8a383d46bf3acc9a5bf27f",
+      "name": "Curio6",
+      "description": "CurioCard6",
+      "address": "0x1ca6ac0ce771094f0f8a383d46bf3acc9a5bf27f",
+      "supply": "100000",
+      "symbol": "CRO6",
+      "ipfsHash": "QmNQJq8zLphvPmGbcKopUqioFF1tED3ykPdQjR7KXCQxVn"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x1cb5bf4be53eb141b56f7e4bb36345a353b5488c",
+      "name": "Curio26",
+      "description": "Curio26",
+      "address": "0x1cb5bf4be53eb141b56f7e4bb36345a353b5488c",
+      "supply": "111",
+      "symbol": "CRO26",
+      "ipfsHash": "QmZjuWa7igycc85i11tE46VMGYhP64g5JX95zVyZkePBar"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x2647bd8777e0c66819d74ab3479372ea690912c3",
+      "name": "Curio7",
+      "description": "Curio7",
+      "address": "0x2647bd8777e0c66819d74ab3479372ea690912c3",
+      "supply": "100000",
+      "symbol": "CRO7",
+      "ipfsHash": "QmRexYVZTDq5pnqukVia99jPUv19M9RRg53B87aueFfLYD"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x2d922712f5e99428c65b44f09ea389373d185bb3",
+      "name": "Curio13",
+      "description": "Curio13",
+      "address": "0x2d922712f5e99428c65b44f09ea389373d185bb3",
+      "supply": "100000",
+      "symbol": "CRO13",
+      "ipfsHash": "QmdzhK28Uama6xJstZZbTRh8RPT2dbT4dBoxjdAaC6gN7N"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x2fce2713a561bb019bc5a110be0a19d10581ee9e",
+      "name": "Curio8",
+      "description": "Curio8",
+      "address": "0x2fce2713a561bb019bc5a110be0a19d10581ee9e",
+      "supply": "100000",
+      "symbol": "CRO8",
+      "ipfsHash": "QmT1qiYcVQuR4Zqqkdj3auDBULhDqstxqMBZRLCm67G19J"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x3f8131b6e62472ceea9cb8aa67d87425248a3702",
+      "name": "Curio3",
+      "description": "CurioCard3",
+      "address": "0x3f8131b6e62472ceea9cb8aa67d87425248a3702",
+      "supply": "100000",
+      "symbol": "CRO3",
+      "ipfsHash": "QmZ74F1trdUaKksS2YkScXxD7zDkSrrmnMX6wTusAXYeYz"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x4f1694be039e447b729ab11653304232ae143c69",
+      "name": "Curio4",
+      "description": "CurioCard4",
+      "address": "0x4f1694be039e447b729ab11653304232ae143c69",
+      "supply": "100000",
+      "symbol": "CRO4",
+      "ipfsHash": "QmdZ8JZZAWfWcLRnXvccBdXTJ6KwiaHMU8wEB1tRcYRK9E"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x59d190e8a2583c67e62eec8da5ea7f050d8bf27e",
+      "name": "Curio28",
+      "description": "Curio28",
+      "address": "0x59d190e8a2583c67e62eec8da5ea7f050d8bf27e",
+      "supply": "400",
+      "symbol": "CRO28",
+      "ipfsHash": "QmYcTX1xpFYiDGSQsjXWm4v1QkjWjDij8zUHHXbz32MLGt"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x5a3d4a8575a688b53e8b270b5c1f26fd63065219",
+      "name": "Curio5",
+      "description": "CurioCard5",
+      "address": "0x5a3d4a8575a688b53e8b270b5c1f26fd63065219",
+      "supply": "100000",
+      "symbol": "CRO5",
+      "ipfsHash": "QmQX4o64AoNhBdvsn77rYLNaeHsiY62Cqschoqok3ebAim"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x6aa2044c7a0f9e2758edae97247b03a0d7e73d6c",
+      "name": "Curio1",
+      "description": "CurioCard1",
+      "address": "0x6aa2044c7a0f9e2758edae97247b03a0d7e73d6c",
+      "supply": "100000",
+      "symbol": "CRO1",
+      "ipfsHash": "QmZGrL7HrUmkLuUxp7NV4n1H8tHkurmBAdsx8jzJp4v1tn"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x72b34d637c0d14ace58359ef1bf472e4b4c57125",
+      "name": "Curio10",
+      "description": "Curio10",
+      "address": "0x72b34d637c0d14ace58359ef1bf472e4b4c57125",
+      "supply": "100000",
+      "symbol": "CRO10",
+      "ipfsHash": "QmZUUXdi4cWsJVKLBYW4SyFz6rj4Ftp5SDU9CQLny9crnD"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0x7f5b230dc580d1e67df6ed30dee82684dd113d1f",
+      "name": "Curio30",
+      "description": "Curio30",
+      "address": "0x7f5b230dc580d1e67df6ed30dee82684dd113d1f",
+      "supply": "821",
+      "symbol": "CRO30",
+      "ipfsHash": "QmZH7MZK6XGELZNhHre2LJiBcXFpsi1wzhmx1MGcApahnD"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xa507d9d28bbca54cbcffad4bb770c2ea0519f4f0",
+      "name": "Curio18",
+      "description": "Curio18",
+      "address": "0xa507d9d28bbca54cbcffad4bb770c2ea0519f4f0",
+      "supply": "500",
+      "symbol": "CRO18",
+      "ipfsHash": "QmajPpYuqQVasd9AzTYUaDrPW6nzjigY91evEUDoNiuefW"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xb36c87f1f1539c5fc6f6e7b1c632e1840c9b66b4",
+      "name": "Curio11",
+      "description": "Curio11",
+      "address": "0xb36c87f1f1539c5fc6f6e7b1c632e1840c9b66b4",
+      "supply": "100000",
+      "symbol": "CRO11",
+      "ipfsHash": "QmWUpgvfRY1PLQ7ZehAsoMz9nptKde1huidWbqz5Nxd3gi"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xb7a5a84ff90e8ef91250fb56c50a7bb92a6306ee",
+      "name": "Curio21",
+      "description": "Curio21",
+      "address": "0xb7a5a84ff90e8ef91250fb56c50a7bb92a6306ee",
+      "supply": "500",
+      "symbol": "CRO21",
+      "ipfsHash": "QmVyhSDjwRi8WAeR1M8C8w2oEVNnvubdoLSkempio5UkBV"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xbf4cc966f1e726087c5c55aac374e687000d4d45",
+      "name": "Curio9",
+      "description": "Curio9",
+      "address": "0xbf4cc966f1e726087c5c55aac374e687000d4d45",
+      "supply": "100000",
+      "symbol": "CRO9",
+      "ipfsHash": "QmWSGCGTt5tJUquaTmi2cezM5VfDju3LPhRqQKKJbmSNzL"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xc7f60c2b1dbdfd511685501edeb05c4194d67018",
+      "name": "Curio25",
+      "description": "Curio25",
+      "address": "0xc7f60c2b1dbdfd511685501edeb05c4194d67018",
+      "supply": "222",
+      "symbol": "CRO25",
+      "ipfsHash": "QmehM1Q3AWhAQjLoX4v7qEHK3gMumu9YrhTE784f5Uw6XT"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xcde7185b5c3ed9ea68605a960f6653aa1a5b5c6c",
+      "name": "Curio23",
+      "description": "Curio23",
+      "address": "0xcde7185b5c3ed9ea68605a960f6653aa1a5b5c6c",
+      "supply": "250",
+      "symbol": "CRO23",
+      "ipfsHash": "QmZy6RuSuADSErzpWAoMkbBNanrvPLmAz4pwNxu9RKmnAC"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xd0ec99e99ce22f2487283a087614aee37f6b1283",
+      "name": "Curio20",
+      "description": "Curio20",
+      "address": "0xd0ec99e99ce22f2487283a087614aee37f6b1283",
+      "supply": "2000",
+      "symbol": "CRO20",
+      "ipfsHash": "QmS19CRKqSLDNcs6gEhs28W8qMUmd44DiDbZoR2Dd5cwpc"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xd15af10a258432e7227367499e785c3532b50271",
+      "name": "Curio12",
+      "description": "Curio12",
+      "address": "0xd15af10a258432e7227367499e785c3532b50271",
+      "supply": "100000",
+      "symbol": "CRO12",
+      "ipfsHash": "Qmcard2X4E71TjJCEUgy1B9HpuciBqv7Q4TM9VR5F9DQ4d"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xd3540bcd9c2819771f9d765edc189cbd915feabd",
+      "name": "Curio29",
+      "description": "Curio29",
+      "address": "0xd3540bcd9c2819771f9d765edc189cbd915feabd",
+      "supply": "200",
+      "symbol": "CRO29",
+      "ipfsHash": "QmTa5bXZUnQyN2BvjhuUcNzGvhxkwvhUDZ3CgGsyzNukoL"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xdb7f262237ad8acca8922aa2c693a34d0d13e8fe",
+      "name": "Curio15",
+      "description": "Curio15",
+      "address": "0xdb7f262237ad8acca8922aa2c693a34d0d13e8fe",
+      "supply": "500",
+      "symbol": "CRO15",
+      "ipfsHash": "QmdzQMqmW2tVSezd9odrbAwvXy8Gx43K3rfG9rtcVaZk5v"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xe67dad99c44547b54367e3e60fc251fc45a145c6",
+      "name": "Curio24",
+      "description": "Curio25",
+      "address": "0xe67dad99c44547b54367e3e60fc251fc45a145c6",
+      "supply": "333",
+      "symbol": "CRO24",
+      "ipfsHash": "QmSzLBMA2xwX3usGb7PpNQpFR8Ca2aRGA8Ef21Z1jxWdrM"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xe9a6a26598b05db855483ff5ecc5f1d0c81140c8",
+      "name": "Curio2",
+      "description": "CurioCard2",
+      "address": "0xe9a6a26598b05db855483ff5ecc5f1d0c81140c8",
+      "supply": "100000",
+      "symbol": "CRO2",
+      "ipfsHash": "QmR1PfBWWNwku1Ywshyn3iwhM5oVMm9rvgPj1EFUd34ZzY"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xf26bc97aa8afe176e275cf3b08c363f09de371fa",
+      "name": "Curio19",
+      "description": "Curio19",
+      "address": "0xf26bc97aa8afe176e275cf3b08c363f09de371fa",
+      "supply": "500",
+      "symbol": "CRO19",
+      "ipfsHash": "QmTKfVeZFaqawgoayTLqgYdfaxabGNkoXrS9FjZBHeqoui"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xf59536290906f204c3c7918d40c1cc5f99643d0b",
+      "name": "Curio17",
+      "description": "Curio17",
+      "address": "0xf59536290906f204c3c7918d40c1cc5f99643d0b",
+      "supply": "500",
+      "symbol": "CRO17",
+      "ipfsHash": "QmY2qTLrNmUvwVyKQF1JFqxSyZPtDH9cBo4CteLY3mtUYb"
+    },
+    {
+      "__typename": "CardType",
+      "id": "0xfb9f3fa2502d01d43167a0a6e80be03171df407e",
+      "name": "Curio27",
+      "description": "Curio27",
+      "address": "0xfb9f3fa2502d01d43167a0a6e80be03171df407e",
+      "supply": "600",
+      "symbol": "CRO27",
+      "ipfsHash": "QmZ4zQtN2PNEw3jMkjvTF1qQaTKYpvPpAdGYMnrAjpnPvW"
+    }
+  ]
+}
